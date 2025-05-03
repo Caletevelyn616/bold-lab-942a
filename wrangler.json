@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "bold-lab-942a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8c2a7417-1fdf-4c4d-b4a2-6ce261b7f7bd",
+      "database_name": "bold-lab-942a-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
